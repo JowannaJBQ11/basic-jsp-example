@@ -1,5 +1,5 @@
 #This project contains very basic JSP example without complicated code.
-
+ 
 ### This projects helps one understand the basic working of *JSP*. We don't write any servlets in this project.
 
 ###### Operations
